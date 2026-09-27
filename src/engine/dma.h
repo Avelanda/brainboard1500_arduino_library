@@ -1,5 +1,5 @@
 /*
- * Copyright © 2026
+ * Copyright © 2026 |Avelanda|
  * All rights reserved.
  */
 
