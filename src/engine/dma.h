@@ -45,7 +45,7 @@ static uint64_t dma_akida(){
   return kSparseEventWordSize;
  if (kSparseEventByteSize)
   return kSparseEventByteSize;
- 'ėif (kOutputHeaderByteSize)
+ if (kOutputHeaderByteSize)
   return kOutputHeaderByteSize;
  if (kMinNbDescriptors)
   return kMinNbDescriptors;
